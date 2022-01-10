@@ -1,1 +1,0 @@
-const celular = 7199918888;

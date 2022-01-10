@@ -1,1 +1,0 @@
-const frutas = ['Banana', 'Maçã', 'Abacaxi', 'Pêra', 'Uva'];

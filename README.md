@@ -2,6 +2,8 @@
 
 # Back-end | Métodos de Strings e Arrays
 
+Estes exercícios pertencem à Cubos Academy. Sua estrutura de execução foi modificada para comportar resoluções utilizando Elixir. Estes, particularmente, fizeram uso de funções própria do módulo Enum e String.
+
 ## Exercícios de classe 🏫
 
 1. Sistema de filtro de comentários
